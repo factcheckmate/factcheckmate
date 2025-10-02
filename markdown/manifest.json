@@ -1,11 +1,60 @@
 {
-  "immigration": {
+  "bluetooth": {
     "topic": "topic.json",
     "comebacks": [
-      "crime.md",
-      "illegal-immigration.md",
-      "jobs.md",
-      "taxes.md"
+      "bluetooth-always-unsafe.md",
+      "bluetooth-causes-cancer.md"
+    ]
+  },
+  "microwave": {
+    "topic": "topic.json",
+    "comebacks": [
+      "molecular-change.md",
+      "nutrient-destruction.md",
+      "radiation-cancer.md",
+      "radiation-leak.md",
+      "radioactive-food.md"
+    ]
+  },
+  "5g-radiation": {
+    "topic": "topic.json",
+    "comebacks": [
+      "cancer.md"
+    ]
+  },
+  "sunscreen": {
+    "topic": "topic.json",
+    "comebacks": [
+      "cancer-causing-myth.md",
+      "children-hormone-concerns.md",
+      "cloud-protection.md",
+      "dark-skin-protection.md",
+      "makeup-spf-sufficient.md",
+      "safe-tan-myth.md",
+      "vitamin-d-deficiency.md"
+    ]
+  },
+  "transgender": {
+    "topic": "topic.json",
+    "comebacks": [
+      "children-too-young.md",
+      "choice-lifestyle.md",
+      "confused-phase.md",
+      "high-regret-detransition.md",
+      "mental-illness.md",
+      "new-trend.md",
+      "parental-rights.md",
+      "social-contagion.md",
+      "sports-advantage.md",
+      "surgery-on-children.md",
+      "two-sexes-only.md"
+    ]
+  },
+  "flat-earth": {
+    "topic": "topic.json",
+    "comebacks": [
+      "pictures.md",
+      "spin.md"
     ]
   },
   "vaccines": {
@@ -25,50 +74,19 @@
       "vaccines-unnecessary-rare-diseases.md"
     ]
   },
-  "5g-radiation": {
+  "renewable-energy": {
     "topic": "topic.json",
     "comebacks": [
-      "cancer.md"
-    ]
-  },
-  "transgender": {
-    "topic": "topic.json",
-    "comebacks": [
-      "children-too-young.md",
-      "choice-lifestyle.md",
-      "confused-phase.md",
-      "high-regret-detransition.md",
-      "mental-illness.md",
-      "new-trend.md",
-      "parental-rights.md",
-      "social-contagion.md",
-      "sports-advantage.md",
-      "surgery-on-children.md",
-      "two-sexes-only.md"
-    ]
-  },
-  "microwave": {
-    "topic": "topic.json",
-    "comebacks": [
-      "molecular-change.md",
-      "nutrient-destruction.md",
-      "radiation-cancer.md",
-      "radiation-leak.md",
-      "radioactive-food.md"
-    ]
-  },
-  "flat-earth": {
-    "topic": "topic.json",
-    "comebacks": [
-      "pictures.md",
-      "spin.md"
-    ]
-  },
-  "bluetooth": {
-    "topic": "topic.json",
-    "comebacks": [
-      "bluetooth-always-unsafe.md",
-      "bluetooth-causes-cancer.md"
+      "cant-power-grid.md",
+      "destroys-jobs.md",
+      "kills-birds.md",
+      "requires-fossil-backup.md",
+      "solar-panels-emit-radiation.md",
+      "solar-panels-toxic.md",
+      "takes-more-energy.md",
+      "too-expensive.md",
+      "unreliable-intermittent.md",
+      "wind-turbines-harm-whales.md"
     ]
   },
   "chemtrails-conspiracy": {
@@ -77,16 +95,13 @@
       "chemtrails.md"
     ]
   },
-  "sunscreen": {
+  "immigration": {
     "topic": "topic.json",
     "comebacks": [
-      "cancer-causing-myth.md",
-      "children-hormone-concerns.md",
-      "cloud-protection.md",
-      "dark-skin-protection.md",
-      "makeup-spf-sufficient.md",
-      "safe-tan-myth.md",
-      "vitamin-d-deficiency.md"
+      "crime.md",
+      "illegal-immigration.md",
+      "jobs.md",
+      "taxes.md"
     ]
   },
   "holocaust-denial": {
