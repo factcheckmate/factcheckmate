@@ -1,29 +1,21 @@
 {
   "bluetooth": {
-    "topic": "topic.json",
     "comebacks": [
       "bluetooth-always-unsafe.md",
       "bluetooth-causes-cancer.md"
-    ]
+    ],
+    "topic": "topic.json"
   },
-  "microwave": {
-    "topic": "topic.json",
+  "immigration": {
     "comebacks": [
-      "molecular-change.md",
-      "nutrient-destruction.md",
-      "radiation-cancer.md",
-      "radiation-leak.md",
-      "radioactive-food.md"
-    ]
-  },
-  "5g-radiation": {
-    "topic": "topic.json",
-    "comebacks": [
-      "cancer.md"
-    ]
+      "crime.md",
+      "illegal-immigration.md",
+      "jobs.md",
+      "taxes.md"
+    ],
+    "topic": "topic.json"
   },
   "sunscreen": {
-    "topic": "topic.json",
     "comebacks": [
       "cancer-causing-myth.md",
       "children-hormone-concerns.md",
@@ -32,10 +24,17 @@
       "makeup-spf-sufficient.md",
       "safe-tan-myth.md",
       "vitamin-d-deficiency.md"
-    ]
+    ],
+    "topic": "topic.json"
+  },
+  "flat-earth": {
+    "comebacks": [
+      "pictures.md",
+      "spin.md"
+    ],
+    "topic": "topic.json"
   },
   "transgender": {
-    "topic": "topic.json",
     "comebacks": [
       "children-too-young.md",
       "choice-lifestyle.md",
@@ -48,17 +47,31 @@
       "sports-advantage.md",
       "surgery-on-children.md",
       "two-sexes-only.md"
-    ]
+    ],
+    "topic": "topic.json"
   },
-  "flat-earth": {
-    "topic": "topic.json",
+  "chemtrails-conspiracy": {
     "comebacks": [
-      "pictures.md",
-      "spin.md"
-    ]
+      "chemtrails.md"
+    ],
+    "topic": "topic.json"
+  },
+  "renewable-energy": {
+    "comebacks": [
+      "cant-power-grid.md",
+      "destroys-jobs.md",
+      "kills-birds.md",
+      "requires-fossil-backup.md",
+      "solar-panels-emit-radiation.md",
+      "solar-panels-toxic.md",
+      "takes-more-energy.md",
+      "too-expensive.md",
+      "unreliable-intermittent.md",
+      "wind-turbines-harm-whales.md"
+    ],
+    "topic": "topic.json"
   },
   "vaccines": {
-    "topic": "topic.json",
     "comebacks": [
       "01 - vaccines-cause-autism.md",
       "hpv-vaccine-promiscuity.md",
@@ -72,40 +85,20 @@
       "vaccines-contain-microchips.md",
       "vaccines-long-term-effects.md",
       "vaccines-unnecessary-rare-diseases.md"
-    ]
+    ],
+    "topic": "topic.json"
   },
-  "renewable-energy": {
-    "topic": "topic.json",
+  "microwave": {
     "comebacks": [
-      "cant-power-grid.md",
-      "destroys-jobs.md",
-      "kills-birds.md",
-      "requires-fossil-backup.md",
-      "solar-panels-emit-radiation.md",
-      "solar-panels-toxic.md",
-      "takes-more-energy.md",
-      "too-expensive.md",
-      "unreliable-intermittent.md",
-      "wind-turbines-harm-whales.md"
-    ]
-  },
-  "chemtrails-conspiracy": {
-    "topic": "topic.json",
-    "comebacks": [
-      "chemtrails.md"
-    ]
-  },
-  "immigration": {
-    "topic": "topic.json",
-    "comebacks": [
-      "crime.md",
-      "illegal-immigration.md",
-      "jobs.md",
-      "taxes.md"
-    ]
+      "molecular-change.md",
+      "nutrient-destruction.md",
+      "radiation-cancer.md",
+      "radiation-leak.md",
+      "radioactive-food.md"
+    ],
+    "topic": "topic.json"
   },
   "holocaust-denial": {
-    "topic": "topic.json",
     "comebacks": [
       "anne-frank-diary-fake.md",
       "diesel-engines-ineffective.md",
@@ -117,6 +110,13 @@
       "no-master-plan.md",
       "not-enough-cremation-capacity.md",
       "survivors-unreliable.md"
-    ]
+    ],
+    "topic": "topic.json"
+  },
+  "5g-radiation": {
+    "comebacks": [
+      "cancer.md"
+    ],
+    "topic": "topic.json"
   }
 }
