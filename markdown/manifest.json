@@ -1,37 +1,5 @@
 {
-  "5g-radiation": {
-    "topic": "topic.json",
-    "comebacks": [
-      "cancer.md"
-    ]
-  },
-  "immigration": {
-    "topic": "topic.json",
-    "comebacks": [
-      "crime.md",
-      "illegal-immigration.md",
-      "jobs.md",
-      "taxes.md"
-    ]
-  },
-  "transgender": {
-    "topic": "topic.json",
-    "comebacks": [
-      "children-too-young.md",
-      "choice-lifestyle.md",
-      "confused-phase.md",
-      "high-regret-detransition.md",
-      "mental-illness.md",
-      "new-trend.md",
-      "parental-rights.md",
-      "social-contagion.md",
-      "sports-advantage.md",
-      "surgery-on-children.md",
-      "two-sexes-only.md"
-    ]
-  },
-  "vaccines": {
-    "topic": "topic.json",
+  "01-vaccines": {
     "comebacks": [
       "01 - vaccines-cause-autism.md",
       "hpv-vaccine-promiscuity.md",
@@ -45,16 +13,19 @@
       "vaccines-contain-microchips.md",
       "vaccines-long-term-effects.md",
       "vaccines-unnecessary-rare-diseases.md"
-    ]
+    ],
+    "topic": "topic.json"
   },
-  "chemtrails-conspiracy": {
-    "topic": "topic.json",
+  "02-immigration": {
     "comebacks": [
-      "chemtrails.md"
-    ]
+      "crime.md",
+      "illegal-immigration.md",
+      "jobs.md",
+      "taxes.md"
+    ],
+    "topic": "topic.json"
   },
-  "renewable-energy": {
-    "topic": "topic.json",
+  "03-renewable-energy": {
     "comebacks": [
       "cant-power-grid.md",
       "destroys-jobs.md",
@@ -66,49 +37,86 @@
       "too-expensive.md",
       "unreliable-intermittent.md",
       "wind-turbines-harm-whales.md"
-    ]
+    ],
+    "topic": "topic.json"
+  },
+  "5g-radiation": {
+    "comebacks": [
+      "5g-causes-cancer.md",
+      "5g-higher-frequency-more-dangerous.md",
+      "5g-is-ionizing-radiation.md",
+      "5g-no-independent-research.md",
+      "5g-spreads-covid19.md",
+      "5g-unsafe-exposure-levels.md",
+      "5g-untested-technology.md",
+      "ntp-study-proves-danger.md"
+    ],
+    "topic": "topic.json"
   },
   "bluetooth": {
-    "topic": "topic.json",
     "comebacks": [
       "bluetooth-always-unsafe.md",
       "bluetooth-causes-cancer.md"
-    ]
+    ],
+    "topic": "topic.json"
+  },
+  "cat-identification": {
+    "comebacks": [
+      "01-litter-boxes-schools-worldwide.md",
+      "furry-protocols.md",
+      "joe-rogan-claims.md",
+      "new-zealand-claims.md",
+      "politician-claims.md",
+      "students-identifying-as-cats.md"
+    ],
+    "topic": "topic.json"
+  },
+  "chemtrails": {
+    "comebacks": [
+      "chemicals-found-in-samples.md",
+      "contrails-are-chemtrails.md",
+      "contrails-didnt-exist-before.md",
+      "contrails-harm-climate.md",
+      "government-weather-modification-proof.md",
+      "grid-patterns-prove-spraying.md",
+      "herndon-coal-fly-ash-study.md",
+      "pilots-and-airlines-silent.md",
+      "planes-same-altitude-different-trails.md"
+    ],
+    "topic": "topic.json"
+  },
+  "flat-earth": {
+    "comebacks": [
+      "pictures.md",
+      "spin.md"
+    ],
+    "topic": "topic.json"
   },
   "holocaust-denial": {
-    "topic": "topic.json",
     "comebacks": [
       "anne-frank-diary-fake.md",
       "diesel-engines-ineffective.md",
       "exaggerated.md",
       "gas-chambers-fake.md",
-      "jews-invented-holocaust.md",
       "nazi-confessions-torture.md",
       "no-mass-graves.md",
       "no-master-plan.md",
       "not-enough-cremation-capacity.md",
       "survivors-unreliable.md"
-    ]
-  },
-  "flat-earth": {
-    "topic": "topic.json",
-    "comebacks": [
-      "pictures.md",
-      "spin.md"
-    ]
+    ],
+    "topic": "topic.json"
   },
   "microwave": {
-    "topic": "topic.json",
     "comebacks": [
       "molecular-change.md",
       "nutrient-destruction.md",
       "radiation-cancer.md",
       "radiation-leak.md",
       "radioactive-food.md"
-    ]
+    ],
+    "topic": "topic.json"
   },
   "sunscreen": {
-    "topic": "topic.json",
     "comebacks": [
       "cancer-causing-myth.md",
       "children-hormone-concerns.md",
@@ -117,6 +125,23 @@
       "makeup-spf-sufficient.md",
       "safe-tan-myth.md",
       "vitamin-d-deficiency.md"
-    ]
+    ],
+    "topic": "topic.json"
+  },
+  "transgender": {
+    "comebacks": [
+      "children-too-young.md",
+      "choice-lifestyle.md",
+      "confused-phase.md",
+      "high-regret-detransition.md",
+      "mental-illness.md",
+      "new-trend.md",
+      "parental-rights.md",
+      "social-contagion.md",
+      "sports-advantage.md",
+      "surgery-on-children.md",
+      "two-sexes-only.md"
+    ],
+    "topic": "topic.json"
   }
 }

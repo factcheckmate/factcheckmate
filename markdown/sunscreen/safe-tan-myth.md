@@ -9,4 +9,6 @@
 }
 ---
 
-**No tan is safe - tanning is skin damage.** When skin darkens from sun exposure, it's a sign of cellular trauma trying to protect itself from UV damage. Even without redness or peeling, DNA damage occurs. A "base tan" provides only SPF 2-4 protection - virtually useless against burning. People who tan easily still get skin cancer and need sun protection. Fake tans don't provide sun protection either (unless specifically labeled with SPF). Use sunscreen regardless of your ability to tan.
+**No tan is safe - tanning is skin damage.**  
+&nbsp;  
+When skin darkens from sun exposure, it's a sign of cellular trauma trying to protect itself from UV damage. Even without redness or peeling, DNA damage occurs. A "base tan" provides only SPF 2-4 protection - virtually useless against burning. People who tan easily still get skin cancer and need sun protection. Fake tans don't provide sun protection either (unless specifically labeled with SPF). Use sunscreen regardless of your ability to tan.

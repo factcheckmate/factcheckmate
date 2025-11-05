@@ -10,4 +10,6 @@
 }
 ---
 
-**Research shows most sunscreen users maintain healthy vitamin D levels.** People typically apply much less sunscreen than recommended, allowing UV through. Even SPF30 lets 3% of UV rays reach skin - enough for vitamin D production. Multiple studies find no association between sunscreen use and vitamin D deficiency in real-world settings. In [insert country], a few minutes of incidental sun exposure during daily activities provides adequate vitamin D. If concerned, take supplements - don't skip sun protection.
+**Research shows most sunscreen users maintain healthy vitamin D levels.**  
+&nbsp;  
+People typically apply much less sunscreen than recommended, allowing UV through. Even SPF30 lets 3% of UV rays reach skin - enough for vitamin D production. Multiple studies find no association between sunscreen use and vitamin D deficiency in real-world settings. A few minutes of incidental sun exposure during daily activities provides adequate vitamin D. If concerned, take supplements - don't skip sun protection.

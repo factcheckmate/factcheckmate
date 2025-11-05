@@ -10,4 +10,6 @@
   "debunkedStudies": []
 }
 ---
-**Research shows children can understand their gender identity as early as age 3 and are typically confident about it by age 5-6.** This is the same age when cisgender children develop a stable sense of their own gender. Knowing you're transgender isn't fundamentally different from knowing you're cisgender—it's about an internal sense of self. Children who consistently, persistently, and insistently express a gender different from their assigned sex over time are demonstrating their authentic identity, not confusion. Medical professionals use careful, evidence-based protocols involving extended observation and support before any medical interventions, which don't occur until puberty at the earliest.
+**Research shows children can understand their gender identity as early as age 3 and are typically confident about it by age 5-6.**  
+&nbsp;  
+This is the same age when cisgender children develop a stable sense of their own gender. Knowing you're transgender isn't fundamentally different from knowing you're cisgender—it's about an internal sense of self. Children who consistently, persistently, and insistently express a gender different from their assigned sex over time are demonstrating their authentic identity, not confusion. Medical professionals use careful, evidence-based protocols involving extended observation and support before any medical interventions, which don't occur until puberty at the earliest.

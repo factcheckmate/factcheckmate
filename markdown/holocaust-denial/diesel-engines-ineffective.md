@@ -3,7 +3,6 @@
     "myth": "Diesel engines used in gas vans and some camps couldn't produce enough carbon monoxide for mass killing.",
     "sources": [
         { "title": "Holocaust Denial on Trial - Diesel Exhaust", "url": "https://www.hdot.org/debunking-denial/" },
-        { "title": "Holocaust Denial on Trial - Gas Vans", "url": "https://www.hdot.org/debunking-denial/d13-gas-vans/" },
         { "title": "US Holocaust Memorial Museum - Killing Centers", "url": "https://encyclopedia.ushmm.org/content/en/article/killing-centers-an-overview" }
     ],
     "debunkedStudies": []

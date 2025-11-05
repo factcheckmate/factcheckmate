@@ -15,7 +15,7 @@
       "urls": [
         { "title": "Methodological Critique of Littman's ROGD Study - PMC", "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7012957/" },
         { "title": "Brown University Statement on ROGD Study", "url": "https://www.brown.edu/news/2019-03-19/gender" },
-        { "title": "WPATH Statement on ROGD", "url": "https://www.wpath.org/media/cms/Documents/Public%20Policies/2018/9_Sept/WPATH%20Position%20on%20Rapid-Onset%20Gender%20Dysphoria_9-4-2018.pdf" }
+        { "title": "WPATH Statement on ROGD", "url": "https://wpath.org/wp-content/uploads/2024/11/WPATH-Position-on-Rapid-Onset-Gender-Dysphoria_9-4-2018.pdf" }
       ],
       "reasonForDebunking": "Littman's study was heavily criticized for fundamental methodological flaws. It surveyed parents recruited exclusively from anti-transgender websites rather than transgender youth themselves, creating severe selection bias. The study's conclusions were based on parental perceptions rather than clinical evaluations. PLOS ONE required corrections, Brown University retracted its press release, and major medical organizations including WPATH stated that ROGD 'constitutes nothing more than an acronym' with no clinical validity. The social contagion hypothesis has not been supported by subsequent rigorous research."
     },
@@ -30,4 +30,6 @@
   ]
 }
 ---
-**The "social contagion" theory has been thoroughly debunked by scientific research.** Given the harassment, discrimination, denial of rights, and barriers to healthcare that transgender people face in [insert country], it's extremely unlikely someone would claim to be transgender due to social pressure. The reality is there's considerable social pressure to be cisgender, which keeps many people closeted. The flawed "Rapid Onset Gender Dysphoria" (ROGD) study that promoted this myth surveyed parents from anti-trans websites rather than actual transgender youth, had severe methodological problems, and has been widely criticized by major medical organizations. Increased visibility of transgender people simply allows more people to understand and articulate their authentic identities—just as left-handed people didn't become more common when we stopped forcing them to use their right hands.
+**The "social contagion" theory has been thoroughly debunked by scientific research.**  
+&nbsp;  
+Given the harassment, discrimination, denial of rights, and barriers to healthcare that transgender people face in [insert country], it's extremely unlikely someone would claim to be transgender due to social pressure. The reality is there's considerable social pressure to be cisgender, which keeps many people closeted. The flawed "Rapid Onset Gender Dysphoria" (ROGD) study that promoted this myth surveyed parents from anti-trans websites rather than actual transgender youth, had severe methodological problems, and has been widely criticized by major medical organizations. Increased visibility of transgender people simply allows more people to understand and articulate their authentic identities—just as left-handed people didn't become more common when we stopped forcing them to use their right hands.

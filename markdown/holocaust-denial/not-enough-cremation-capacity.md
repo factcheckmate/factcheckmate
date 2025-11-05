@@ -3,7 +3,6 @@
     "myth": "The crematoria at camps like Auschwitz didn't have capacity to burn millions of bodies.",
     "sources": [
         { "title": "Holocaust Denial on Trial - Cremation Capacity", "url": "https://www.hdot.org/debunking-denial/" },
-        { "title": "Holocaust Denial on Trial - Open Air Burning Pits", "url": "https://www.hdot.org/debunking-denial/ab7-open-air-burning-pits/" },
         { "title": "US Holocaust Memorial Museum - Auschwitz Crematoria", "url": "https://encyclopedia.ushmm.org/content/en/article/auschwitz" }
     ],
     "debunkedStudies": []

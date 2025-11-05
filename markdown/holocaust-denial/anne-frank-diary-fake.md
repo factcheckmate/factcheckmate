@@ -2,9 +2,8 @@
 {
       "myth": "Anne Frank's diary is a forgery written after the war, possibly with ballpoint pen.",
       "sources": [
-        { "title": "Holocaust Denial on Trial - Anne Frank's Diary Authenticity", "url": "https://www.hdot.org/debunking-denial/af1-anne-franks-diary-annes-diary-is-authentic/" },
-        { "title": "Anne Frank House - Authenticity of the Diary", "url": "https://www.annefrank.org/en/anne-frank/go-in-depth/authenticity-diary-anne-frank/" },
-        { "title": "Holocaust Denial on Trial - Ballpoint Pen Myth", "url": "https://www.hdot.org/debunking-denial/af2-ballpoint-pen/" }
+        { "title": "Holocaust Denial on Trial - Anne Frank's Diary Authenticity", "url": "https://www.hdot.org/debunking-denial/af2-diary-authentic/" },
+        { "title": "Anne Frank House - Authenticity of the Diary", "url": "https://www.annefrank.org/en/anne-frank/go-in-depth/authenticity-diary-anne-frank/" }
       ],
       "debunkedStudies": []
     }

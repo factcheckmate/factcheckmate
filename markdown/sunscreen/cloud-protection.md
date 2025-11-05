@@ -9,4 +9,6 @@
 }
 ---
 
-**Clouds provide minimal UV protection.** Up to 80% of UV radiation penetrates clouds - you can still get severely burned on overcast days. UV damage is caused by radiation, not heat, so temperature doesn't indicate UV intensity. Clouds can even intensify UV through reflection. "Windburn" is actually sunburn - wind doesn't damage skin, UV does. Check the UV index forecast (available in weather apps/websites) and use sun protection when UV is 3 or above, regardless of cloud cover.
+**Clouds provide minimal UV protection.**  
+&nbsp;  
+Up to 80% of UV radiation penetrates clouds - you can still get severely burned on overcast days. UV damage is caused by radiation, not heat, so temperature doesn't indicate UV intensity. Clouds can even intensify UV through reflection. "Windburn" is actually sunburn - wind doesn't damage skin, UV does. Check the UV index forecast (available in weather apps/websites) and use sun protection when UV is 3 or above, regardless of cloud cover.

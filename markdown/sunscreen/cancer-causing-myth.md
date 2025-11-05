@@ -9,4 +9,6 @@
 }
 ---
 
-**No medical evidence supports this claim.** UV rays from sun and tanning beds DO cause cancer. Some sunscreens were recalled for benzene contamination (not a normal ingredient), but this doesn't mean sunscreen itself is harmful. Studies showing higher cancer rates in sunscreen users were flawed - those people were actually getting MORE sun exposure (traveling to sunny places, sunbathing). Choose broad-spectrum SPF30+ products from reputable brands for proven protection.
+**No medical evidence supports this claim.**  
+&nbsp;  
+UV rays from sun and tanning beds DO cause cancer. Some sunscreens were recalled for benzene contamination (not a normal ingredient), but this doesn't mean sunscreen itself is harmful. Studies showing higher cancer rates in sunscreen users were flawed - those people were actually getting MORE sun exposure (traveling to sunny places, sunbathing). Choose broad-spectrum SPF30+ products from reputable brands for proven protection.

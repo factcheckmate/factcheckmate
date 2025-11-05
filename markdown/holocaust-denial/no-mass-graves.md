@@ -3,15 +3,13 @@
       "myth": "There is no physical evidence of mass graves at alleged extermination sites like Treblinka and Sobibor.",
       "sources": [
         { "title": "Holocaust Denial on Trial - Operation Reinhard Mass Graves", "url": "https://www.hdot.org/debunking-denial/" },
-        { "title": "Holocaust Denial on Trial - Archaeological Evidence at Treblinka", "url": "https://www.hdot.org/debunking-denial/or11-mass-graves-space-for-mass-graves/" },
-        { "title": "US Holocaust Memorial Museum - Operation Reinhard", "url": "https://encyclopedia.ushmm.org/content/en/article/operation-reinhard-extermination-camps" }
       ],
       "debunkedStudies": [
         {
           "name": "Richard Krege's Ground Penetrating Radar Survey",
           "year": 1999,
           "urls": [
-            { "title": "Holocaust Denial on Trial - Krege Investigation Debunked", "url": "https://www.hdot.org/debunking-denial/or10-krege-investigation/" }
+            { "title": "Holocaust Denial on Trial - Krege Investigation Debunked", "url": "https://www.hdot.org/debunking-denial/or7-krege-investigation/" }
           ],
           "reasonForDebunking": "Richard Krege, working with Holocaust deniers, conducted a brief unauthorized ground-penetrating radar survey at Treblinka and claimed to find no evidence of mass graves. However, his survey was methodologically flawed: it covered only a small portion of the camp area, used inadequate equipment settings for detecting decomposed human remains, and his results were never peer-reviewed or published in scientific journals. Subsequent professional archaeological investigations using proper methodology have confirmed the presence of mass graves and human remains at the site."
         }

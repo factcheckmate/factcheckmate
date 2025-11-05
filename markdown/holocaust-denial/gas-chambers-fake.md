@@ -11,7 +11,7 @@
           "name": "The Leuchter Report",
           "year": 1988,
           "urls": [
-            { "title": "Holocaust Denial on Trial - Fred Leuchter Report Debunked", "url": "https://www.hdot.org/debunking-denial/ab5-auschwitz-gas-chambers-fred-leuchter-report/" }
+            { "title": "Leuchter Report", "url": "https://www.auschwitz.org/en/history/holocaust-denial/leuchter-report/" }
           ],
           "reasonForDebunking": "Fred Leuchter, who was not a trained engineer or chemist, conducted an unauthorized investigation at Auschwitz using fundamentally flawed methodology. His samples were taken from locations exposed to 50 years of weathering, he misunderstood the chemical properties of Zyklon B residue, and he ignored documentary and eyewitness evidence. Professional chemists and Holocaust historians have thoroughly discredited his conclusions, and Leuchter himself admitted under oath he had no formal training in chemistry, toxicology, or engineering."
         }

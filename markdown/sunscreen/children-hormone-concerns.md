@@ -10,4 +10,6 @@
 }
 ---
 
-**Major pediatric organizations still recommend sunscreen for children over 6 months.** While oxybenzone has some research associations with hormone levels, it would take 277 years of normal sunscreen use to reach levels that showed effects in rat studies. The AAP suggests avoiding oxybenzone "if possible" but emphasizes any sunscreen is better than none. No definitive link to hormone disruption has been established in humans. Choose mineral sunscreens (zinc oxide/titanium dioxide) for children if concerned, but don't skip sun protection entirely.
+**Major pediatric organizations still recommend sunscreen for children over 6 months.**  
+&nbsp;  
+While oxybenzone has some research associations with hormone levels, it would take 277 years of normal sunscreen use to reach levels that showed effects in rat studies. The AAP suggests avoiding oxybenzone "if possible" but emphasizes any sunscreen is better than none. No definitive link to hormone disruption has been established in humans. Choose mineral sunscreens (zinc oxide/titanium dioxide) for children if concerned, but don't skip sun protection entirely.

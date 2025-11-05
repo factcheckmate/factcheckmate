@@ -3,7 +3,7 @@
   "myth": "Bluetooth headphones and devices cause brain cancer and other serious health problems due to radiation exposure.",
   "sources": [
     { "title": "Jefferson Health - Myth or Truth? Bluetooth Earbuds and Brain Cancer Risk", "url": "https://www.jeffersonhealth.org/your-health/living-well/myth-or-truth-bluetooth-earbuds-and-brain-cancer-risk" },
-    { "title": "Medical News Today - Bluetooth headphones: Safety and risks", "url": "https://www.medicalnewstoday.com/articles/are-bluetooth-headphones-safe" },
+    { "title": "Medical News Today - Bluetooth headphones: Safety and risks", "url": "https://www.medicalnewstoday.com/articles/are-bluetooth-headaphones-safe" },
     { "title": "World Health Organization - Electromagnetic Field Guidelines", "url": "https://www.who.int/teams/environment-climate-change-and-health/radiation-and-health/non-ionizing/emf" },
     { "title": "Consumer Reports - Do I Need to Worry About Radiation From WiFi and Bluetooth?", "url": "https://www.consumerreports.org/radiation/do-i-need-to-worry-about-radiation-from-wifi-and-bluetooth-devices/" }
   ]
