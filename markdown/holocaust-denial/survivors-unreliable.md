@@ -2,7 +2,7 @@
 {
     "myth": "Holocaust survivor testimonies contain inconsistencies and errors, making them unreliable evidence.",
     "sources": [
-        { "title": "Holocaust Denial on Trial - Reliability of Witnesses", "url": "https://www.hdot.org/debunking-denial/" },
+        { "title": "Holocaust Denial on Trial - Reliability of Witnesses", "url": "https://www.hdot.org/debunking-denial/" }    
     ],
     "debunkedStudies": []
 }

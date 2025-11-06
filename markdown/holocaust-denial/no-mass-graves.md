@@ -2,7 +2,7 @@
 {
       "myth": "There is no physical evidence of mass graves at alleged extermination sites like Treblinka and Sobibor.",
       "sources": [
-        { "title": "Holocaust Denial on Trial - Operation Reinhard Mass Graves", "url": "https://www.hdot.org/debunking-denial/" },
+        { "title": "Holocaust Denial on Trial - Operation Reinhard Mass Graves", "url": "https://www.hdot.org/debunking-denial/" }
       ],
       "debunkedStudies": [
         {
